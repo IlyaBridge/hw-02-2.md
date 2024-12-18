@@ -119,7 +119,7 @@ RAM
 3. Далее "Create host".
 4. Введём имя хоста (kaznacheevim-1 и аналогично kaznacheevim-2), выберем тип "Agent". Пропишем IP 10.0.2.16 и, а в настройках kaznacheevim-2 соответственно IP 10.0.2.16.
 5. В секции "Templates" выберем шаблон "Linux by Zabbix Agent".
-6. 
+
 ![image](https://github.com/user-attachments/assets/c0039b12-d863-4cbb-bb6a-bcaaeff7fb47)
 
 Проверка данных с агентов
@@ -186,5 +186,3 @@ RAM
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
